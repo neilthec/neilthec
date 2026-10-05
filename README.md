@@ -1,7 +1,5 @@
 This is where I store the software packages I am working on, mostly (completely?) related to physics research and teaching.
 
-Currently, only SPINAS is public.  However, we have more in the works! :)
-
 <!--
 **neilthec/neilthec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
